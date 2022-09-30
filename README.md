@@ -1,6 +1,7 @@
 ## Description
 
 Parcial 1 - Programación con Tecnologías Web
+
 Author: Juan Andrés Romero Colmenares - 202013449
 
 <p align="center">
